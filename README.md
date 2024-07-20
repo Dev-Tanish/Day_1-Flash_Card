@@ -1,7 +1,7 @@
 ## Portfolio-Website
-Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
+Flash_Card website built using HTML5, CSS3, JavaScript, and jQuery.
 
-<a href="https://dev-tanish.github.io/Port_Folio/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://dev-tanish.github.io/Day_1-Flash_Card/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
@@ -12,11 +12,6 @@ Portfolio website built using HTML5, CSS3, JavaScript, and jQuery.
 
 ### Extras : 
 Particle.js, Typed.js, Tilt.js, Scroll Reveal, Tawk.to, Font Awesome and JSON
-
-## 📌 Sneak Peek of Main Page 🙈 :
-![mockup720](https://github.com/Dev-Tanish/Port_Folio/blob/master/Screenshot%202024-07-07%20131941.png)
-![ss](https://user-images.githubusercontent.com/64949957/159113640-d92665a8-f614-42b3-8456-66b97fc2e651.png)
-
 
 <h2>📬 Contact</h2>
 
